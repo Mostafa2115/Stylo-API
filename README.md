@@ -302,8 +302,7 @@ Stylo.Backend/
 | **Mostafa Mahmoud** | Backend Developer / Team Lead | [@Mostafa2115](https://github.com/Mostafa2115) |
 | **Ahmed El-Mallah** | Backend Developer | [@AhmedElmalla7](https://github.com/AhmedElmalla7) |
 | **Mohamed Abdelrahman** | Backend Developer | [@MohamedAttia2005](https://github.com/MohamedAttia2005) |
-| **Yara Elsaid** | Frontend Developer | [@yelsied77-boop](https://github.com/yelsied77-boop) |
-| **Haneen Ali** | Frontend Developer | [@haneenali5886-jpg](https://github.com/haneenali5886-jpg) |
+
 
 ---
 
