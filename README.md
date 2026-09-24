@@ -28,6 +28,7 @@
 9. [📡 API Endpoints Summary](#-api-endpoints-summary)
 10. [🗄️ Database Migrations](#️-database-migrations)
 11. [📂 Project Directory Structure](#-project-directory-structure)
+12. [👥 Team Members & Contributors](#-team-members--contributors)
 
 ---
 
@@ -291,6 +292,18 @@ Stylo.Backend/
 ├── Migrations/                 # EF Core DB Migration Files
 └── README.md                   # Project Documentation
 ```
+
+---
+
+## 👥 Team Members & Contributors
+
+| Member | Role | GitHub Profile |
+| :--- | :--- | :--- |
+| **Mostafa Mahmoud** | Backend Developer / Team Lead | [@Mostafa2115](https://github.com/Mostafa2115) |
+| **Ahmed El-Mallah** | Backend Developer | [@AhmedElmalla7](https://github.com/AhmedElmalla7) |
+| **Mohamed Abdelrahman** | Backend Developer | [@MohamedAttia2005](https://github.com/MohamedAttia2005) |
+| **Yara Elsaid** | Frontend Developer | [@yelsied77-boop](https://github.com/yelsied77-boop) |
+| **Haneen Ali** | Frontend Developer | [@haneenali5886-jpg](https://github.com/haneenali5886-jpg) |
 
 ---
 
